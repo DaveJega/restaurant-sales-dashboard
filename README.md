@@ -13,3 +13,6 @@ This project analyzes restaurant sales using SQL and Power BI.
 - Total orders and sales
 
 ## Dashboard Preview
+## SQL Analysis
+- Menu item Analysis
+- Order Details Analysis
