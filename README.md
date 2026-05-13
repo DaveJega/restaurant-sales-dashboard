@@ -11,12 +11,8 @@ This project analyzes restaurant sales using SQL and Power BI.
 - Revenue trends
 - Revenue by category
 - Total orders and sales
-- Hourly Order
-- Least Performing Items
-- Total Revenue
 
 ## Dashboard Preview
 ## SQL Analysis
 - Menu item Analysis
 - Order Details Analysis
-- Display the menu and order table
